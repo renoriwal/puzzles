@@ -1,30 +1,9 @@
 
 /*
- 
  script : 
  résolution de la question 1 du puzzle : https://adventofcode.com/2024/day/1  
 
- résumé de l'exercice : 
-
- récupération des données au format : 
-
- *************
- data         
- 27804   22005
- 57534   15678
- 87884   94553
- 48892   19971
- .............
- 58404   84321
- 51855   79056
- 66069   63618
- 34790   20959
- 78319   74115
- 25687   93836
- 32603   42378
- *************
-
- but : 
+ résumé : 
  on a 2 colonnes. Il faut faire matcher les valeurs des colonnes pour que : 
                   - la valeur la plus petite de la colonne 1 soit associée à la valeur la plus petite de la colonne 2
                   - la 2ème valeur la plus petite de la colonne 1 soit associée à la 2ème valeur la plus petite de la colonne 2
@@ -32,7 +11,6 @@
                   - la valeur la plus grande de la colonne 1 soit associée à la 2ème valeur la plus grande de la colonne 2
  une fois que le match est fait, il faut sommer la différence entre les deux colonnes. 
  Attention, la différence doit toujours être positive (valeur la plus grande retranchée de la valeur l aplus petite
-
 */
 
 with 
