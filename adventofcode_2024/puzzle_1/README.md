@@ -1,5 +1,7 @@
 # Advent of Code - puzzle 1
 
+
+## Input
 Télécharger l'input du [Puzzle 1](https://github.com/renoriwal/puzzles/tree/main/adventofcode_2024/puzzle_1/puzzle_1_input.txt)
 
 ## Question 1
