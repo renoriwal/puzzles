@@ -1,3 +1,5 @@
-# Advent of Code
+# Advent of Code - question 1
 
-![alt text](temp.bmp "Sauvez willy")
+
+![alt text](puzzle_1_question_1_enigme.jpg)
+
