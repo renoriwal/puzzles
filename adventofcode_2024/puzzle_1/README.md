@@ -24,7 +24,7 @@ Si je devais quand même donner les difficultés je dirais :
 ## Resolution Question 1
 
 Code en lien [ici](https://github.com/renoriwal/puzzles/tree/main/adventofcode_2024/puzzle_1/puzzle_1_question_1_resolution_sql.sql).
-<br> ou tout simplement ici : 
+<br> ou tout simplement ci-dessous. Le code a été exécuté sous BigQuery : 
 ```sql
 /*
  script : 
