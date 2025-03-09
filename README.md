@@ -24,7 +24,7 @@ Je ne suis pas un dieu vivant du SQL, loin de là ! Alors si vous voyez des opti
 
 Renaud RIOUAL. Data analyst depuis... quelques années déjà. Je ne les compte plus pour pas me faire mal au moral !
 <br>
-Vous pouvez me trouver sur linkedin en [cliquant ici](www.linkedin.com/in/renaud-rioual)
+Vous pouvez me trouver sur linkedin en [cliquant ici](https://www.linkedin.com/in/renaud-rioual)
 <br>
 <br>
 ## Quelques exemple de puzzles
