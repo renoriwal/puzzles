@@ -36,4 +36,4 @@ Et voici en images le genre de puzzles que j'essayerai de résoudre ici !
 
 Je commence tout juste, soyez bienveillants :) Merci
 <br>
-- advent of code 2024- [question 1](www.linkedin.com/in/renaud-rioual)
+- [advent of code 2024](https://github.com/renoriwal/puzzles/tree/main/adventofcode_2024)
