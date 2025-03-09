@@ -10,6 +10,17 @@ Télécharger l'input du [Puzzle 1](https://github.com/renoriwal/puzzles/tree/ma
 <br>
 <br>
 
+## Difficultés rencontrées
+
+Avant d'aller voir la solution apportée, on peut parler des difficultés de l'exercice. 
+<br> 
+Bon, on ne va pas se mentir, l'exercice n'est pas très difficile ! En même, il s'agit du premier puzzle de l'avent of code, donc il semble normal de ne pas se confronter dès le début à des difficultés extrême, et heureusement, sinon on serait vite dégouté !
+<br>
+Si je devais quand même donner les difficultés je dirais : 
+<br>
+1. Le formatage des données. Mais toutes les colonnes font la même longueur donc très simple au final.
+2. Ne pas oublier les valeurs absolues pour être sûr de sommer des valeurs positives. 
+
 ## Resolution Question 1
 
 Code en lien [ici](https://github.com/renoriwal/puzzles/tree/main/adventofcode_2024/puzzle_1/puzzle_1_question_1_resolution_sql.sql).
