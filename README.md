@@ -1,7 +1,9 @@
 
 # Bienvenue sur le github de **renoriwal**
 
-Ce site est didié à la résolution de puzzles en SQL
+Ce site est dédié à la résolution de puzzles en SQL. 
+Je ne suis pas un dieu vivant du SQL, loin de là ! Alors si vous voyez des optimisations, n'hésitez pas à les partager !
+
 
 ```
  .--.       .-.         _                                       .-.               
