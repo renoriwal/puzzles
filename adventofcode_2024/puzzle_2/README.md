@@ -11,7 +11,6 @@ Le puzzle se trouve en ligne [ici](https://adventofcode.com/2024/day/2).
 ## Difficultés rencontrées
 
 1. Question 1 : Elle reste assez simple. La seule difficulté c'est l'intégration des données et de voir comment transformer cela en table requêtable. Il faut déjà imagniner un peu comment on va régler le problème.
-<br>
 2. Question 2 :  Je ne voulais surtout pas créer toutes les séries possibles en faisant 8 union (8 = max de valeur dans une série) et pour chaque union j'aurai enlevé l'une des valeurs. Le code aurait été trop moche. <br> 
 Le join sur la table elle-même fonctionne très bien, mais je dois avouer que je me suis tromper 2 fois lorsque j'ai voulu valider le résultat. Le filtre que j'appliquais pour enlever une seule valeur pour chaque série n'était pas bon... 
 
