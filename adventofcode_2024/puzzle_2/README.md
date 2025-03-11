@@ -1,4 +1,4 @@
-# Advent of Code - puzzle 1
+# Advent of Code - puzzle 2
 
 Le puzzle se trouve en ligne [ici](https://adventofcode.com/2024/day/2).
 
