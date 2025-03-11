@@ -2,11 +2,6 @@
 
 Le puzzle se trouve en ligne [ici](https://adventofcode.com/2024/day/1).
 
-## Input
-Télécharger l'input du [Puzzle 1](https://github.com/renoriwal/puzzles/tree/main/adventofcode_2024/puzzle_1/puzzle_1_input.txt)
-<br>
-Attention, il s'agit du puzzle associé à mon compte. Si vous vous connectez, vous aurez votre propre jeu de données. 
-
 ## Question 1
 
 ![alt text](puzzle_1_question_1_enigme.jpg)

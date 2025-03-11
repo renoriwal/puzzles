@@ -2,6 +2,7 @@
 /*
  script : 
  résolution de la question 1 du puzzle : https://adventofcode.com/2024/day/1  
+ traitée sur bigquery
 
  résumé : 
  on a 2 colonnes. Il faut faire matcher les valeurs des colonnes pour que : 
@@ -20,7 +21,7 @@ DATA_PREP as
 select 
      cast(substring(T.data,1,5           ) as integer) as col_1
     ,cast(substring(T.data,6,length(data)) as integer) as col_2
-from PROJET.SCHEMA.TABLE_PUZZLE as T
+from PROJET.SCHEMA.PUZZLE_INPUT as T
 )
 ,DATA_PREP_ENRICHIE as 
 -- Enrichissement de la table avec le rank sur chacune des colonnes. Permettra de faire la jointure entre col1 et col2 dans l'ordre asc des données
