@@ -22,11 +22,12 @@ Si je devais quand même donner les difficultés je dirais :
 ## Resolution Question 1
 
 Code en lien [ici](https://github.com/renoriwal/puzzles/tree/main/adventofcode_2024/puzzle_1/puzzle_1_question_1_resolution_sql.sql).
-<br> ou tout simplement ci-dessous. Le code a été exécuté sous BigQuery : 
+<br> ou tout simplement ci-dessous. 
 ```sql
 /*
  script : 
  résolution de la question 1 du puzzle : https://adventofcode.com/2024/day/1  
+ traitée sur bigquery
 
  résumé : 
  on a 2 colonnes. Il faut faire matcher les valeurs des colonnes pour que : 
