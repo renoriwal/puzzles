@@ -87,18 +87,13 @@ where true
     and ecart_min * ecart_max > 0 -- règle : série strictement croissante ou décroissante
 ```
 
-<br>
-<br>
 
 ## Question 2
 
 ![alt text](puzzle_2_question_2_enigme.jpg)
 <br>
-Résolution En [SQL](https://github.com/renoriwal/puzzles/tree/main/adventofcode_2024/puzzle_2/puzzle_2_question_2_resolution_sql.sql)
 
 
-<br>
-<br>
 
 ## Resolution Question 2
 

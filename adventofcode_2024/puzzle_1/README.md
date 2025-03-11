@@ -72,17 +72,12 @@ join DATA_PREP_ENRICHIE as C2
 ```
 
 <br>
-<br>
 
 ## Question 2
 
 ![alt text](puzzle_1_question_2_enigme.jpg)
 <br>
-Résolution En [SQL](https://github.com/renoriwal/puzzles/tree/main/adventofcode_2024/puzzle_1/puzzle_1_question_2_resolution_sql.sql)
 
-
-<br>
-<br>
 
 ## Resolution Question 2
 
