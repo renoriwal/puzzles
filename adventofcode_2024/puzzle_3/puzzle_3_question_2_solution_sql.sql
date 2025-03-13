@@ -66,6 +66,6 @@ select
 from DATA_UNNEST
 )
 select 
-sum(cast(element_1 as integer)*cast(element_2 as integer))
+sum(cast(element_1 as integer)*cast(element_2 as integer)) as reponse_puzzle_3_question_2
 from DATA_EXTRACT_ELEMENT
 
