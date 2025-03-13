@@ -19,9 +19,9 @@ Si je devais quand même donner les difficultés je dirais :
 1. Le formatage des données. Mais toutes les colonnes font la même longueur donc très simple au final.
 2. Ne pas oublier les valeurs absolues pour être sûr de sommer des valeurs positives. 
 
-## Resolution Question 1
+## Solution Question 1
 
-Code en lien [ici](https://github.com/renoriwal/puzzles/tree/main/adventofcode_2024/puzzle_1/puzzle_1_question_1_resolution_sql.sql).
+Code en lien [ici](https://github.com/renoriwal/puzzles/tree/main/adventofcode_2024/puzzle_1/puzzle_1_question_1_solution_sql.sql).
 <br> ou tout simplement ci-dessous. 
 ```sql
 /*
@@ -79,10 +79,10 @@ join DATA_PREP_ENRICHIE as C2
 <br>
 
 
-## Resolution Question 2
+## Solution Question 2
 
 
-Code en lien [ici](https://github.com/renoriwal/puzzles/tree/main/adventofcode_2024/puzzle_1/puzzle_1_question_2_resolution_sql.sql).
+Code en lien [ici](https://github.com/renoriwal/puzzles/tree/main/adventofcode_2024/puzzle_1/puzzle_1_question_2_solution_sql.sql).
 <br> ou tout simplement ici : 
 ```sql
 

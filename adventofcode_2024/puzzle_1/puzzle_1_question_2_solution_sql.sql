@@ -2,7 +2,8 @@
 /*
  script : 
  résolution de la question 2 du puzzle : https://adventofcode.com/2024/day/1  
- traitée sur bigquery
+
+-- exécuté sur bigquery
 
 résumé :
 Pour chaque valeur différente de la première colonne 1 par le nombre de fois qu'apparît ce nombre dans la colonne 2, puis on somme la totalité.  

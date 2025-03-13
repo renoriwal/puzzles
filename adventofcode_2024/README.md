@@ -8,7 +8,8 @@ Si vous voulez vous challenger, en vous connectant sur le site, vous aurez les m
 
 ## liste des Puzzles résolus : 
 [Puzzle 1](https://github.com/renoriwal/puzzles/tree/main/adventofcode_2024/puzzle_1) <br>
-[Puzzle 2](https://github.com/renoriwal/puzzles/tree/main/adventofcode_2024/puzzle_2)
+[Puzzle 2](https://github.com/renoriwal/puzzles/tree/main/adventofcode_2024/puzzle_2) <br>
+[Puzzle 2](https://github.com/renoriwal/puzzles/tree/main/adventofcode_2024/puzzle_3) <br>
 
 
 

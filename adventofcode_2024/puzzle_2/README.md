@@ -14,9 +14,9 @@ Le puzzle se trouve en ligne [ici](https://adventofcode.com/2024/day/2).
 2. Question 2 :  Je ne voulais surtout pas créer toutes les séries possibles en faisant 8 union (8 = max de valeur dans une série) et pour chaque union j'aurai enlevé l'une des valeurs. Le code aurait été trop moche. <br> 
 Le join sur la table elle-même fonctionne très bien, mais je dois avouer que je me suis tromper 2 fois lorsque j'ai voulu valider le résultat. Le filtre que j'appliquais pour enlever une seule valeur pour chaque série n'était pas bon... 
 
-## Resolution Question 1
+## Solution Question 1
 
-Code en lien [ici](https://github.com/renoriwal/puzzles/tree/main/adventofcode_2024/puzzle_2/puzzle_2_question_2_resolution_sql.sql).
+Code en lien [ici](https://github.com/renoriwal/puzzles/tree/main/adventofcode_2024/puzzle_2/puzzle_2_question_1_solution_sql.sql).
 <br> ou tout simplement ci-dessous :
 ```sql
 
@@ -95,10 +95,10 @@ where true
 
 
 
-## Resolution Question 2
+## Solution Question 2
 
 
-Code en lien [ici](https://github.com/renoriwal/puzzles/tree/main/adventofcode_2024/puzzle_2/puzzle_2_question_2_resolution_sql.sql).
+Code en lien [ici](https://github.com/renoriwal/puzzles/tree/main/adventofcode_2024/puzzle_2/puzzle_2_question_2_solution_sql.sql).
 <br> ou tout simplement ici : 
 ```sql
 

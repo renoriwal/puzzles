@@ -1,7 +1,7 @@
 
 --
 -- script : 
--- traitée sur bigquery
+-- exécuté sur bigquery
 --
 -- 
 -- 2eme question : 

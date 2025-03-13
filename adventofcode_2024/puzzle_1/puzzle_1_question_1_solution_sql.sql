@@ -2,7 +2,8 @@
 /*
  script : 
  résolution de la question 1 du puzzle : https://adventofcode.com/2024/day/1  
- traitée sur bigquery
+
+-- exécuté sur bigquery
 
  résumé : 
  on a 2 colonnes. Il faut faire matcher les valeurs des colonnes pour que : 
