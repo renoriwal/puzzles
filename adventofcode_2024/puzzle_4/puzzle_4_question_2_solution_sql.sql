@@ -169,7 +169,7 @@ join DATA_UNNEST as LETTRE_S2
 where true
     and LETTRE_A.value = 'A' -- le A est au centre de la croix
 )
-,UNION_ALL as 
+,ALL_XMAS as 
 -- on récupère les données des 4 tables
 (
 select * from X_BAS    union all by name
@@ -180,4 +180,4 @@ select * from X_DROIT
 -- il ne reste qu'à compter le nombre de croix que l'on a obtenu. une par ligne.
 select 
      count(*) as reponse_puzzle_4_question_1
-from UNION_ALL
+from ALL_XMAS

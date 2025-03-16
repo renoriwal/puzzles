@@ -134,7 +134,7 @@ left join DATA_UNNEST as LETTRE_4
     on  LETTRE_1.rank_ligne   = LETTRE_4.rank_ligne - 3
     and LETTRE_1.rank_colonne = LETTRE_4.rank_colonne - 3
 )
-,UNION_ALL as 
+,ALL_XMAS as 
 -- on récupère tous les mots possibles des 4 tables : 
 (
 select lettre_1||lettre_2||lettre_3||lettre_4 as mot from XMAS_HORIZONTAL    union all
@@ -145,7 +145,7 @@ select lettre_1||lettre_2||lettre_3||lettre_4 as mot from XMAS_DIAGONAL_BAS
 -- il ne reste plus qu'à compter le nombre de fois qu'apparaît "XMAS" et "SAMX"
 select 
     count(*)
-from UNION_ALL
+from ALL_XMAS
 where mot in ('XMAS','SAMX')
     
     
