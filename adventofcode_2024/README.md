@@ -11,6 +11,7 @@ Si vous voulez vous challenger, en vous connectant sur le site, vous aurez les m
 [Puzzle 2](https://github.com/renoriwal/puzzles/tree/main/adventofcode_2024/puzzle_2) <br>
 [Puzzle 3](https://github.com/renoriwal/puzzles/tree/main/adventofcode_2024/puzzle_3) <br>
 [Puzzle 4](https://github.com/renoriwal/puzzles/tree/main/adventofcode_2024/puzzle_4) <br>
+[Puzzle 5](https://github.com/renoriwal/puzzles/tree/main/adventofcode_2024/puzzle_5) <br>
 
 
 
