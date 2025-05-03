@@ -174,3 +174,13 @@ end repeat;
 
 select * from `lv-gcp-dcx-int-data4csc-ww`.`lv_bqd_int_dp_data4csc_working`.requete_geo_solution;
 ```
+
+
+## Solution : résultat
+
+Avoir avoir fait une boucle infinie et obtenue une erreur de mémoire... j'obtiens bien le résultat souhaité. Et si on change un peu la condition d'arrêt de la boucle pour aller plus loin et chercher plus de solution, au final, on trouve beaucoup de possibilité pour résoudre ce puzzle. Je me suis arrêté après avoir obtenu plus de 8 millions de chemins possible pour arriver au **FINISH**. 
+
+Voici la solution optimale : 
+
+
+et voici quelques autres solutions prises au hasard dans les 8 millions de possibilité
