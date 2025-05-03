@@ -34,6 +34,14 @@ Et voici en images le genre de puzzles que j'essayerai de résoudre ici !
 
 ## Puzzles résolus
 
-Je commence tout juste, soyez bienveillants :) Merci
+Si vous voyez des amléiorations, n'héstiez pas à m'en faire part ! Merci
 <br>
 - [advent of code 2024](https://github.com/renoriwal/puzzles/tree/main/adventofcode_2024)
+
+## Puzzles sur liste d'attente
+<br>
+- light sur l'appllication simon's puzzle tatham
+- tower sur l'appllication simon's puzzle tatham
+- https://i18n-puzzles.com/
+- https://www.codyssi.com/
+- tri de données selon la valeur précédente
