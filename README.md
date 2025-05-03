@@ -37,13 +37,11 @@ Et voici en images le genre de puzzles que j'essayerai de résoudre ici !
 Si vous voyez des amléiorations, n'héstiez pas à m'en faire part ! Merci
 <br>
 - [advent of code 2024](https://github.com/renoriwal/puzzles/tree/main/adventofcode_2024) <br>
-- [jeux et énigmes visuels]()
+- [jeux et énigmes visuels](https://github.com/renoriwal/puzzles/tree/main/jeux_et_enigme_visuels)
 
 ## Puzzles sur liste d'attente
-
-
-[light up](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/lightup.html) <br>
-[tower](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/towers.html) <br>
-[internationalization puzzle](https://i18n-puzzles.com/) <br>
-[codissy](https://www.codyssi.com/) <br>
-tri de données selon la valeur précédente
+- [light up](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/lightup.html) <br>
+- [tower](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/towers.html) <br>
+- [internationalization puzzle](https://i18n-puzzles.com/) <br>
+- [codissy](https://www.codyssi.com/) <br>
+- tri de données selon la valeur précédente
