@@ -12,8 +12,8 @@ Dans ce labyrinthe, vous devez parcourir les lignes en sautant de figures géom�
 - Vous devez sauter vers une autre figure identique pleine (ou noire) <br>
 - Vous recommencez en suivant la ligne que vous venez d'atteindre <br>
 - Attention, lorsque vous sautez d'une figure vide à une figure pleine, vous devez respecter les deux règles suivantes :  <br>
-> Vous ne pouvez effectuer un saut que horizontalement ou verticalement. Pas de diagonale <br>
-> Vous devez obligatoirement sautez par dessus une ligne continue <br>
+-- Vous ne pouvez effectuer un saut que horizontalement ou verticalement. Pas de diagonale <br>
+-- Vous devez obligatoirement sautez par dessus une ligne continue <br>
 
 ## Difficultés rencontrées
 
