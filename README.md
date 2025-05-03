@@ -40,11 +40,10 @@ Si vous voyez des amléiorations, n'héstiez pas à m'en faire part ! Merci
 - [jeux et énigmes visuels]()
 
 ## Puzzles sur liste d'attente
-<br>
-- [light up](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/lightup.html) <br>
-- [tower](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/towers.html) <br>
-- [internationalization puzzle](https://i18n-puzzles.com/) <br>
-- [codissy](https://www.codyssi.com/) <br>
-- [advent of code 2024](https://github.com/renoriwal/puzzles/tree/main/adventofcode_2024)
-<br>
-- tri de données selon la valeur précédente
+
+
+[light up](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/lightup.html) <br>
+[tower](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/towers.html) <br>
+[internationalization puzzle](https://i18n-puzzles.com/) <br>
+[codissy](https://www.codyssi.com/) <br>
+tri de données selon la valeur précédente
