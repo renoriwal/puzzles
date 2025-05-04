@@ -22,7 +22,7 @@ Dans ce labyrinthe, vous devez parcourir les lignes en sautant de figures géom�
 - résoudre le puzzle en lui-même car c'est la première fois que j'utilisais des fonction géo en SQL. Rien de fou au final mais je suis tomber plusieurs fois dans des pièges.
 
 
-## Solution : création de la table des données du jeu
+## Création de la table des données du jeu
 
 Pour résoudre le puzzle, il faut bien sur le transformer en data. Ici, on va récupérer les coordonées de toutes les lignes (qui sont des suites de segments). Il faut noter également si le segment est viable ou non car certains d'entre eux ne sont pas utilisables pour sauter d'un point A à un point B, mais il sont utilisable car on peut sauter par dessus !
 
@@ -46,7 +46,7 @@ select st_geogfromtext('multilinestring((17  5,20  2                        ))')
 select st_geogfromtext('multilinestring((21  6,21  3                        ))') as path, 'R' as start_form, 'R' as end_form, 1 as is_line_ok union all
 ```
 
-## Solution : création de la table des sauts possibles 
+## Création de la table des sauts possibles 
 
 Pour respecter la règle qui consiste à sauter d'une figure pleine (carré / rond / hexagone) à la même figure vide et en sautant par dessus une ligne, on crée une table qui contient tous les sauts autorisés. Cela évite de la recalculer à chaque fois. 
 
@@ -118,7 +118,7 @@ where
 
 
 
-## Solution : résolution du puzzle 
+## Résolution du puzzle 
 
 Maintenant qu'on a tout sous la main, il ne reste qu'à résoudre le problème. Pour cela on fait une boucle qui rajoute un point sur la solution possible. On s'arrête lorsque la solution contient le point **FINISH**
 
@@ -176,11 +176,23 @@ select * from `lv-gcp-dcx-int-data4csc-ww`.`lv_bqd_int_dp_data4csc_working`.requ
 ```
 
 
-## Solution : résultat
+## Résultats
 
-Avoir avoir fait une boucle infinie et obtenue une erreur de mémoire... j'obtiens bien le résultat souhaité. Et si on change un peu la condition d'arrêt de la boucle pour aller plus loin et chercher plus de solution, au final, on trouve beaucoup de possibilité pour résoudre ce puzzle. Je me suis arrêté après avoir obtenu plus de 8 millions de chemins possible pour arriver au **FINISH**. 
+Avoir avoir fait une boucle infinie et affiché une erreur de mémoire... j'obtiens bien le résultat souhaité. Et si on change un peu la condition d'arrêt de la boucle pour aller plus loin et chercher plus de solutions, au final, on trouve beaucoup de possibilités pour résoudre ce puzzle. Je me suis arrêté après avoir obtenu plus de 8 millions de chemins possibles pour arriver au **FINISH**. 
 
-Voici la solution optimale : 
+Voici la solution optimale : <br>
+```txt
+solution opti
+```
+<br>
 
+et voici quelques autres solutions prises au hasard dans les 8 millions de possibilité : <br>
 
-et voici quelques autres solutions prises au hasard dans les 8 millions de possibilité
+```txt
+solution opti
+solution opti
+solution opti
+solution opti
+solution opti
+solution opti
+```
