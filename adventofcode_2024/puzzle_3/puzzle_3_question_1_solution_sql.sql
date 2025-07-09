@@ -21,6 +21,7 @@ select
 from PROJET.SCHEMA.PUZZLE_INPUT
 )
 ,DATA_UNNEST as 
+-- unnest de la data pour mettre la donnée en ligne
 (
 select 
     mul
@@ -28,6 +29,7 @@ from DATA_SPLIT
 join unnest (DATA_SPLIT.all_mul) as mul
 )
 ,DATA_EXTRACT_ELEMENT as 
+-- extraction de ce qui est recherché
 (
 select 
      mul
@@ -35,6 +37,7 @@ select
     ,substring(mul,instr(mul,',')+1,(length(mul) - instr(mul,','))-1) as element_2 -- extraction du deuxième élément
 from DATA_UNNEST
 )
+-- résultat : 
 select 
 sum(cast(element_1 as integer)*cast(element_2 as integer)) as reponse_puzzle_3_question_1
 from DATA_EXTRACT_ELEMENT
