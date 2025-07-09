@@ -10,8 +10,8 @@ Le puzzle se trouve en ligne [ici](https://adventofcode.com/2024/day/3).
 
 ## Difficultés rencontrées
 
-1. Question 1 : Bien utilisé les expression régulière. Notamment, j'avais écris (\d+) pour prendre autant de chiffre qu'il y en avait à la suite, mais sur bigquery, je ne pouvais pas en mettre plus d'un dans la même expression régulière alors qu'il m'en faut deux (un pour trouver le premier paramètre du "mul" et un autre pour trouver le deuxième paramètre). Mais en le remplaçant par [0-9] tout fonctionne bien
-2. Question 2 :  j'avais mis un coalesce au lieu d'un case when, sauf que le substring ne renvoie pas une valeur nulle s'il n'a rien à extraire mais il renvoie un string vide. j'ai mis une heure à m'en rendre compte
+1. Question 1 : Bien utiliser les expressions régulières. J'avais écrit (\d+) pour prendre autant de chiffre qu'il y en avait à la suite, mais sur bigquery, je ne pouvais pas en mettre plus d'un dans la même expression régulière alors qu'il m'en faut deux (un pour trouver le premier paramètre du "mul" et un autre pour trouver le deuxième paramètre). Mais en le remplaçant par [0-9] tout fonctionne bien.
+2. Question 2 :  j'avais mis un coalesce au lieu d'un case when, sauf que le substring ne renvoie pas une valeur nulle s'il n'a rien à extraire mais il renvoie un string vide. 
 
 ## Solution Question 1
 

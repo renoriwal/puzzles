@@ -6,7 +6,7 @@
 
 ## Règles
 
-Dans ce labyrinthe, vous devez parcourir les lignes en sautant de figures géométriques vers d'autres figures géométriques. Vous commencez au rond blanc à côté du **START** pour finir au crré noir à côté du **FINISH** en respectant les règles suivantes : <br>
+Dans ce labyrinthe, vous devez parcourir les lignes en sautant de figures géométriques vers d'autres figures géométriques. Vous commencez au rond blanc à côté du **START** pour finir au carré noir à côté du **FINISH** en respectant les règles suivantes : <br>
 - Vous suivez la ligne continue <br>
 - Vous arrivez à une figure géométrique (rond / carré / héxagone) vide (ou transparente) <br>
 - Vous devez sauter vers une autre figure identique pleine (ou noire) <br>
